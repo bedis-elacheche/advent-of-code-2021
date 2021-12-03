@@ -1,0 +1,26 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "main": "index.js",
+  "author": "Bedis El Acheche <elacheche.bedis@gmail.com> (https://bedis.elacheche.me)",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest day-*/test.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bedis-elacheche/advent-of-code-2021.git"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/eslint-parser": "^7.16.3",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.4.2",
+    "eslint": "^8.3.0",
+    "eslint-plugin-jest": "^25.3.0",
+    "jest": "^27.4.3"
+  }
+}
