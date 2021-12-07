@@ -20,7 +20,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 4: Giant Squid](day-04/)
 - [Day 5: Hydrothermal Venture](day-05/)
 - [Day 6: Lanternfish](day-06/)
-- [Day 7: TBD](day-07/)
+- [Day 7: The Treachery of Whales](day-07/)
 - [Day 8: TBD](day-08/)
 - [Day 9: TBD](day-09/)
 - [Day 10: TBD](day-10/)
