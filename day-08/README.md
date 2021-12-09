@@ -137,4 +137,4 @@ Adding all of the output values in this larger example produces **`61229`**.
 For each entry, determine all of the wire/segment connections and decode the four-digit output values. **What do you get if you add up all of the output values?**
 
 ## References
-- https://adventofcode.com/2021/day/7
+- https://adventofcode.com/2021/day/8
