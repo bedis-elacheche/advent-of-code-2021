@@ -25,7 +25,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 9: Smoke Basin](day-09/)
 - [Day 10: Syntax Scoring](day-10/)
 - [Day 11: Dumbo Octopus](day-11/)
-- [Day 12: TBD](day-12/)
+- [Day 12: Passage Pathing](day-12/)
 - [Day 13: TBD](day-13/)
 - [Day 14: TBD](day-14/)
 - [Day 15: TBD](day-15/)
